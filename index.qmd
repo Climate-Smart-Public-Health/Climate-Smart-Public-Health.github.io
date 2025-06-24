@@ -1,7 +1,16 @@
 ---
-title: "Climate-Smart-Public-Health Docs"
+title: "Data Science at CSPH"
 ---
 
-This is a Quarto website.
+Welcome to the CSPH Data Science Documentation! This website is your go-to resource for learning about data science practices, tools, and projects with the Climate Smart Public Health group. Here you'll find guides, tutorials, and documentation to help you get started and stay informed.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website is built on Quarto, which is a handy open-source scientific and technical publishing system. Quarto makes it easy to create beautiful, interactive, and reproducible documents and websites using Markdown, code, and visualizations. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+Contributions to this website were made by the folks you see below:
+
+🚧 🚧 🚧 Section Under Construction 🚧 🚧 🚧
+
+To add your own contributions, see our ([🚧 contribution guide under construction 🚧]())!
+
+In the meantime first resource, the Data Science Workflows Presentation, is available [here](https://climate-smart-public-health.github.io/data-science-workflows-presentation/)!
